@@ -1,5 +1,4 @@
 ### Hi there 👋, Hi 👋, I'm Biftek
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: JAVA/C#/PYTHON/FLUTTER/DART/KOTLİN/
