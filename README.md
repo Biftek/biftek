@@ -1,4 +1,4 @@
-### Hi there 👋, Hi 👋, I'm Biftek
+Hi 👋, I'm Biftek!
 
 
 Skills: JAVA/C#/PYTHON/FLUTTER/DART/KOTLİN/
